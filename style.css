@@ -23,7 +23,7 @@
     border-radius: 30px;
     padding: 10px;
     text-align: center;
-    opacity: 0.5;
+    rgba: 52, 194, 237, 0.6; 
    }
   h2{font-size: 25px;
     background-color: #0000FF;
