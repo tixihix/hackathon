@@ -35,7 +35,15 @@
      color: red
    }
   #h{text-align: center}
-  
+  body{background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ2RSGBxK85ZtS9TisWCDIz-jvyddl0djmsQ&s);
+      background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+      
+      
+      }
+ 
   
   
   
