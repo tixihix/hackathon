@@ -26,11 +26,12 @@
     color: white;
    }
   h2{font-size: 25px;
-    background-color: #0000FF;
+    background-color: rgba(0, 0, 255, 0.6);
     border-radius: 30px;
     padding: 10px;
     text-align: center;
      color: white;
+     
    }
   #h{text-align: center}
   body{  background-image: url("https://static.vecteezy.com/system/resources/previews/002/082/157/non_2x/health-care-icon-pattern-medical-innovation-concept-background-design-vector.jpg");
