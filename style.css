@@ -1,59 +1,61 @@
+
 .circular{
-            border-style: hidden;
-            border-radius: 50%;
-            width:150px;
-            height: 150px;
-            display: inline-block;
-           }
-  
-  
-  h1{display: block;
-    padding-top: 8px;
-    color:white;
-    background-color: #050A30;
-    border-radius: 40px;
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-bottom: 8px;
-     margin-left: auto;
-     margin-right: auto;
-     width: fit-content;
-  }
-  p{font-size: 25px;
-    background-color: rgba(0, 12, 102, 0.6);  
-    border-radius: 30px;
-    padding: 0px;
-    text-align: center;
-    color: white;
+    border-style: hidden;
+    border-radius: 50%;
+    width:150px;
+    height: 150px;
+    display: inline-block;
    }
-  h2{font-size: 25px;
-    background-color: rgba(0, 0, 255, 0.6);
-    border-radius: 30px;
-    padding: 10px;
-    text-align: center;
-     color: white;
-     
-   }
-  #h{text-align: center;}
-  body{  background-image: url("https://static.vecteezy.com/system/resources/previews/002/082/157/non_2x/health-care-icon-pattern-medical-innovation-concept-background-design-vector.jpg");
-      background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center;
-      }
-#HEAD{backround-color: rgba{0, 255, 255, 0.6); 
- border-style: hidden;}                           
+
+
+h1{display: block;
+padding-top: 8px;
+color:white;
+background-color: #050A30;
+border-radius: 40px;
+padding-left: 20px;
+padding-right: 20px;
+padding-bottom: 8px;
+margin-left: auto;
+margin-right: auto;
+width: fit-content;
+}
+p{font-size: 25px;
+background-color: rgba(0, 12, 102, 0.6);  
+border-radius: 30px;
+padding: 0px;
+text-align: center;
+color: white;
+}
+h2{font-size: 25px;
+background-color: rgba(0, 0, 255, 0.6);
+border-radius: 30px;
+padding: 10px;
+text-align: center;
+color: white;
+
+}
+#h{text-align: center;}
+body{  background-image: url("https://static.vecteezy.com/system/resources/previews/002/082/157/non_2x/health-care-icon-pattern-medical-innovation-concept-background-design-vector.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;
+}
+#HEAD{background-color: rgba(0, 255, 255, 0.6); 
+border-style: hidden;}                         
 .flex{display: flex;
-     align-items: center;
-     gap: 7px;}      
-      
- 
-  
-  
-  
-  
-  
-  
-  
-  
-  
+align-items: center;
+gap: 7px;
+}      
+
+
+
+
+
+
+
+
+
+
+
