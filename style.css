@@ -47,7 +47,17 @@ border-style: hidden;}
 .flex{display: flex;
 align-items: center;
 gap: 7px;
-}      
+} 
+.yo{
+    font-size: 25px;
+    background-color: rgba(0, 12, 102, 0.6);  
+    border-radius: 30px;
+    padding: 0px;
+    text-align: center;
+    color: white;
+    
+      
+    }     
 
 
 
